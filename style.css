@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar_section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.ess {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.navbar_section h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.navbar_section .container-fluid {
+  background-color: #eee;
+}
+
+.body_section .container-fluid img {
+  margin-top: 80px;
+  margin-bottom: 60px;
+  width: 60%;
+}
+
+.text_section {
+  margin-top: 40px;
+  margin-left: 300px;
+  margin-bottom: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.text_section ul {
+  display: block;
+  align-items: center;
+}
+
+.text_section ul li {
+  margin-top: 20px;
+  padding-right: 200px;
+}
